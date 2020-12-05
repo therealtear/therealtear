@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Salutation comrad! Welcome to one of Tear's many github profiles. </h1>
-<h3 align="center">For those of you that don't know me I specialise in back-end and node app developement, as well as general API intergration and testing</h3>
+<h3 align="center">For those of you that don't know me I specialise in back-end and node app developement, as well as general API integration and testing</h3>
 <h3 align="center">________________________________________________________________________________________________________________________________________</h3>
 <p align="left">
 <p align="center">
